@@ -1,6 +1,6 @@
 # REACT TESTING LIBRARY
 
-A simple react app to practice/prove knowledge of React testing library.
+A simple react app to practice/prove knowledge of React testing library covering unit and integration testing..
 
 ### Installing / Getting started
 
