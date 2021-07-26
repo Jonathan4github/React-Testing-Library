@@ -8,10 +8,9 @@ const AddInput = ({ setTodos, todos}) => {
   
   const addTodo = () => {
     if(!todo) return
-    let updatedTodos = [...todos, { id: v4(), task: todo, ompleted: false }]
+    let updatedTodos = [...todos, { id: v4(), task: todo, completed: false }]
     setTodos(updatedTodos);
     setTodo("");
-    
   }
 
   return (
