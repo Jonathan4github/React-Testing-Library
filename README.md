@@ -22,3 +22,7 @@ Run server
 `npm start`
 
 Server listens on port 3000
+
+Run test
+
+`npm test`
